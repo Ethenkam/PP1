@@ -1,0 +1,8 @@
+name, price, quantity
+"Phone", 699.99, 50
+"Laptop", 999.99, 30
+"Tablet", 399.99, 20
+"Headphones", 199.99, 100
+"Smartwatch", 299.99, 75
+"Camera", 499.99, 40
+
