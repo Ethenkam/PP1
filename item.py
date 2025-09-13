@@ -4,9 +4,7 @@ class Item:
 
     def __init__(self, name: str, price: float, stock=0):
         # Validate the received arguments
-        assert price > 0, f"Price {price} is not greater than zero!"
-        assert stock >= 0, f"Stock {stock} is not greater than or equal to zero!"
-        # Pass values
+
         self.__name = name
         self.price = price
         self.stock = stock
